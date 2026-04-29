@@ -18,5 +18,5 @@ Full-stack software developer with experience building custom business software 
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nidhi_Mehta-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nidhi-a-mehta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=vercel)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=vercel)](https://mehtanidhi.com)
 [![Email](https://img.shields.io/badge/Email-mehta.nidhi@northeastern.edu-D14836?style=flat&logo=gmail)](mailto:mehta.nidhi@northeastern.edu)
