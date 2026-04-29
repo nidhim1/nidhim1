@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nidhi 👋
 
-<!--
-**nidhim1/nidhim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software developer with experience building custom business software across web, mobile, and cloud. Currently pursuing my Master's at Northeastern University (Boston).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [FinoSteel](https://github.com/nidhi-a-mehta/finosteel-admin) | B2B procurement platform admin panel | PHP · MySQL · MVC · GitHub Actions |
+| [Cloud Native App](https://github.com/nidhi-a-mehta/webapp) + [Infrastructure](https://github.com/nidhi-a-mehta/tf-aws-infra) | AWS cloud-native deployment with full IaC | Node.js · AWS · Terraform · Packer |
+| [WellCare](https://github.com/nidhi-a-mehta/wellcare) | Hospital management system | Spring Boot · JWT · MySQL · Thymeleaf |
+| [Tiny Taskers](https://github.com/nidhi-a-mehta/tiny-taskers) | Kid-friendly job platform PWA | React · TypeScript · Node.js · MongoDB |
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nidhi_Mehta-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nidhi-a-mehta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=vercel)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-mehta.nidhi@northeastern.edu-D14836?style=flat&logo=gmail)](mailto:mehta.nidhi@northeastern.edu)
