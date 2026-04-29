@@ -1,6 +1,6 @@
 # Hi, I'm Nidhi 👋
 
-Full-stack software developer with experience building custom business software across web, mobile, and cloud. Currently pursuing my Master's at Northeastern University (Boston).
+Full-stack software developer with experience building custom business software across web, mobile, and cloud. MS in Software Engineering Systems, Northeastern University.
 
 ---
 
@@ -8,10 +8,10 @@ Full-stack software developer with experience building custom business software 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [FinoSteel](https://github.com/nidhi-a-mehta/finosteel-admin) | B2B procurement platform admin panel | PHP · MySQL · MVC · GitHub Actions |
-| [Cloud Native App](https://github.com/nidhi-a-mehta/webapp) + [Infrastructure](https://github.com/nidhi-a-mehta/tf-aws-infra) | AWS cloud-native deployment with full IaC | Node.js · AWS · Terraform · Packer |
-| [WellCare](https://github.com/nidhi-a-mehta/wellcare) | Hospital management system | Spring Boot · JWT · MySQL · Thymeleaf |
-| [Tiny Taskers](https://github.com/nidhi-a-mehta/tiny-taskers) | Kid-friendly job platform PWA | React · TypeScript · Node.js · MongoDB |
+| FinoSteel | B2B procurement platform admin panel | PHP · MySQL · MVC · GitHub Actions |
+| [Cloud Native App](https://github.com/nidhi-cloud-native-project/webapp) + [Infrastructure](https://github.com/nidhi-cloud-native-project/tf-aws-infra) | AWS cloud-native deployment with full IaC | Node.js · AWS · Terraform · Packer |
+| [WellCare](https://github.com/nidhim1/WellCare) | Hospital management system | Spring Boot · JWT · MySQL · Thymeleaf |
+| [Tiny Taskers](https://github.com/nidhim1/Tiny-Taskers) | Kid-friendly job platform PWA | React · TypeScript · Node.js · MongoDB |
 
 ---
 
