@@ -8,6 +8,7 @@ Full-stack software developer with experience building custom business software 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Livermore Trading Intelligence](https://github.com/nidhim1/livermore-trading-intelligence) *(in progress)* | AI-powered trading advisor: RAG chatbot + real-time stock analysis, trained on Jesse Livermore's trading philosophy | FastAPI · React · PostgreSQL/pgvector · Groq LLaMA 3.3 · Docker |
 | FinoSteel | B2B procurement platform admin panel | PHP · MySQL · MVC · GitHub Actions |
 | [Cloud Native App](https://github.com/nidhi-cloud-native-project/webapp) + [Infrastructure](https://github.com/nidhi-cloud-native-project/tf-aws-infra) | AWS cloud-native deployment with full IaC | Node.js · AWS · Terraform · Packer |
 | [WellCare](https://github.com/nidhim1/WellCare) | Hospital management system | Spring Boot · JWT · MySQL · Thymeleaf |
